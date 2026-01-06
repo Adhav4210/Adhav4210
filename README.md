@@ -47,5 +47,3 @@ GitHub
 Why do programmers always mix up Christmas and Halloween?
 Because Oct 31 == Dec 25! 😄
 
-📊 GitHub Stats
-<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adhav4210&show_icons=true&theme=radical" /> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhav4210&hide=html,css&layout=compact&theme=radical" /> </p>
